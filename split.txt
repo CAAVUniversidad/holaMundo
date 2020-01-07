@@ -1,0 +1,3 @@
+productos_id = productos_id.split(',');
+fin_ciclo = parseInt(productos_id.length) - 1;
+cantidad = cantidad.split(',');
